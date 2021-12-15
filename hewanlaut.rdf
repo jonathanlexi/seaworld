@@ -11,7 +11,7 @@
     <fsh:family>Melanocetidae</fsh:family>
     <fsh:genus>Melanocetus</fsh:genus>
     <fsh:live>Atlantic Oceans, Indian, and Pacific Oceans</fsh:live>
-    <dc:description>Black seadevils are small, deepsea lophiiform fishes of the family Melanocetidae. The five known species (with only two given common names) are all within the genus Melanocetus. They are found in tropical.</dc:description>
+    <dc:description>Black seadevils are small, deepsea lophiiform fishes of the family Melanocetidae. The five known species (with only two given common names) are all within the genus Melanocetus. </dc:description>
     <fsh:image>https://customstoday.com/wp-content/uploads/2014/11/deep-sea-anglerfish.jpg</fsh:image>
 </rdf:Description>
     
@@ -23,7 +23,7 @@
     <fsh:family>Eurypharyngidae</fsh:family>
     <fsh:genus>Eurypharynx</fsh:genus>
     <fsh:live>Canada, Greenland, and Portugal</fsh:live>
-    <dc:description>The pelican eel (Eurypharynx pelecanoides) is a deep-sea eel rarely seen by humans, though it is occasionally caught in fishing nets. It is the only known member of the genus Eurypharynx and the family Eurypharyngidae.</dc:description>
+    <dc:description>The pelican eel is a deep-sea eel rarely seen by humans, though it is occasionally caught in fishing nets. It is the only known member of the genus Eurypharynx and Eurypharyngidae.</dc:description>
     <fsh:image>https://2.bp.blogspot.com/--sjk5yiF2QI/WsMbs52sL3I/AAAAAAAABAw/H0NmqsOAuMAOW7CXiwQtmbD2I9lThkSMACLcBGAs/w1200-h630-p-k-no-nu/mv2d0kv279vz.jpg</fsh:image>
 </rdf:Description>
    
@@ -35,7 +35,7 @@
     <fsh:family>Vampyroteuthidae</fsh:family>
     <fsh:genus>Vampyroteuthis</fsh:genus>
     <fsh:live>German, Edinburgh, and Antartic Oceans</fsh:live>
-    <dc:description>The vampire squid (Vampyroteuthis infernalis, lit. "vampire squid from Hell") is a small cephalopod found throughout temperate and tropical oceans in extreme deep sea conditions.[2] The vampire squid uses its bioluminescent organs and its unique oxygen metabolism to thrive in the parts of the ocean with the lowest concentrations of oxygen.</dc:description>
+    <dc:description>The vampire squid (Vampyroteuthis infernalis, lit. "vampire squid from Hell") is a small cephalopod found throughout temperate and tropical oceans in extreme deep sea conditions.</dc:description>
     <fsh:image>https://images.newscientist.com/wp-content/uploads/2012/09/dn22299-1_300.jpg</fsh:image>
 </rdf:Description>
 
@@ -46,7 +46,7 @@
     <fsh:family>Anoplogastridae</fsh:family>
     <fsh:genus>Anoplogaster</fsh:genus>
     <fsh:live>Australia</fsh:live>
-    <dc:description>Fangtooths are beryciform fish of the family Anoplogastridae (sometimes spelled "Anoplogasteridae") that live in the deep sea. The name is from Greek anoplo meaning "unarmed" and γαστήρ : gastḗr meaning "stomach".</dc:description>
+    <dc:description>Fangtooths are beryciform fish of the family Anoplogastridae (sometimes spelled "Anoplogasteridae") that live in the deep sea. The name is meaning "unarmed" and γαστήρ:gastḗr meaning "stomach".</dc:description>
     <fsh:image>https://www.montereybayaquarium.org/globalassets/mba/images/animals/fishes/fangtooth-ap091-2.jpg</fsh:image>
 </rdf:Description>
     
@@ -58,7 +58,7 @@
     <fsh:family>Stomiidae</fsh:family>
     <fsh:genus>Chauliodus</fsh:genus>
     <fsh:live>Australia and Atlantic Oceans</fsh:live>
-    <dc:description>The Pacific viperfish, Chauliodus macouni, is a predatory fish that lives in the bathyal zone or bathypelgic, ranging from 1000m-4000m and having an average temperature of 4 degrees Celsius. However, the pacific viperfish has been found in the mesopelagic region, above the bathypelagic.</dc:description>
+    <dc:description>The Pacific viperfish, is one of many predatory fish that lives in the bathyal zone or bathypelgic, ranging from 1000m-4000m and having an average temperature of 4 degrees Celsius.</dc:description>
     <fsh:image>https://www.mbari.org/wp-content/uploads/2020/07/Chauliodus_macouni_01_ChauliodusSide20181112.jpg</fsh:image>
 </rdf:Description>
    
@@ -70,7 +70,7 @@
     <fsh:family>Chlamydoselachidae</fsh:family>
     <fsh:genus>Chlamydoselachus</fsh:genus>
     <fsh:live>Norway, Ireland and France</fsh:live>
-    <dc:description>The frilled shark (Chlamydoselachus anguineus) and the southern African frilled shark (Chlamydoselachus africana) are the two extant species of shark in the family Chlamydoselachidae. The frilled shark is considered a living fossil, because of its primitive, anguilliform (eel-like) physical traits.</dc:description>
+    <dc:description>The frilled shark (Chlamydoselachus anguineus) and the southern African frilled shark (Chlamydoselachus africana) are the two extant species of shark in the family Chlamydoselachidae. </dc:description>
     <fsh:image>https://upload.wikimedia.org/wikipedia/commons/0/0e/Chlamydoselachus_anguineus2.jpg</fsh:image>
 </rdf:Description>
    
@@ -82,7 +82,7 @@
     <fsh:family>Opisthoproctidae</fsh:family>
     <fsh:genus>Macropinna</fsh:genus>
     <fsh:live>Atlantic Oceans, Indian, and Pacific Oceans</fsh:live>
-    <dc:description>Black seadevils are small, deepsea lophiiform fishes of the family Melanocetidae. The five known species (with only two given common names) are all within the genus Melanocetus. They are found in tropical to temperate waters of the Atlantic, Indian, and Pacific Oceans.</dc:description>
+    <dc:description>Black seadevils are small, they are fishes of the family Melanocetidae. The five known species are all within the genus Melanocetus. They are found in tropical to temperate waters.</dc:description>
     <fsh:image>https://cdnb.artstation.com/p/assets/images/images/025/216/573/large/rasmus-warming-dsc00597retouchedweb0-srcset-large.jpg?1585055917</fsh:image>
 </rdf:Description>
         
